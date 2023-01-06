@@ -1,6 +1,6 @@
-# My-Memory-Game
+# My Memory Game
 
-An Android Memory Game.
+An Android Memory Game App.
 
 
 ## Demo
