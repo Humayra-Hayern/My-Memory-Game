@@ -1,6 +1,6 @@
 # My Memory Game
 
-An Android Memory Game App.
+An Android Memory Game App designed for Covatic.
 
 
 ## Demo
